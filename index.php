@@ -1,3 +1,3 @@
 <?
-echo "TEST Bot"
+echo file_get_contents('php://input');
 ?>
